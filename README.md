@@ -13,8 +13,17 @@
 ## Connect with me:
 
 <p align="left">
-  <a href="https://github.com/maiaburaad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-maiaburaad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="mailto:mai.aburaed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.facebook.com/maiaburaad" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://leetcode.com/u/maiaburaad/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://codeforces.com/profile/maiaburaad" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
 </p>
 
