@@ -24,31 +24,7 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,python,php,mysql,html,css,bootstrap,git,github" alt="Languages and tools">
 </p>
 
-## Featured Projects:
 
-### [YallaCode](https://github.com/maiaburaad/YallaCode)
-
-PHP and MySQL learning-platform prototype with authentication, profile management, role-based access control, secure image uploads, and an administrative dashboard.
-
-`PHP` `MySQL` `PDO` `Bootstrap` `Authentication`
-
-### [Cake Shop System](https://github.com/maiaburaad/CakeShopSystem)
-
-Java Swing ordering application demonstrating Singleton, Simple Factory, Abstract Factory, Decorator, and Observer design patterns.
-
-`Java` `Swing` `Maven` `OOP` `Design Patterns`
-
-### [Istidrak - System Analysis and Design](https://github.com/maiaburaad/Istidrak-System-Analysis-Design)
-
-Requirements, database design, and UML documentation for an AI-based mathematics learning platform developed as a collaborative team project.
-
-`UML` `System Analysis` `ERD` `Requirements Engineering`
-
-### [C++ Algorithm Practice](https://github.com/maiaburaad/cpp-algorithm-practice)
-
-A growing collection of documented C++ algorithm exercises, beginning with a clean backtracking solution for generating valid activity schedules.
-
-`C++` `Algorithms` `Backtracking` `Problem Solving`
 
 ## Core Skills:
 
