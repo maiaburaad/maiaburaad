@@ -21,7 +21,39 @@
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,php,mysql,html,css,bootstrap,git,github" alt="Languages and tools">
+  <a href="https://www.w3schools.com/java/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45">
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45">
+  </a>
+  <a href="https://www.w3schools.com/python/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45">
+  </a>
+  <a href="https://www.w3schools.com/php/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45">
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45">
+  </a>
+  <a href="https://www.w3schools.com/bootstrap/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45">
+  </a>
+  <a href="https://www.w3schools.com/js/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45">
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45">
+  </a>
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45">
+  </a>
 </p>
 
 
@@ -34,4 +66,3 @@
 - Backend fundamentals with PHP and relational databases
 - UML, requirements analysis, and system modeling
 - Git and GitHub
-
