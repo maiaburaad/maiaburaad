@@ -8,7 +8,7 @@
 - &#127793; I'm currently learning **backend development, databases, and system analysis**
 - &#128187; I'm building projects with **Java, PHP, MySQL, and C++**
 - &#129504; I'm interested in **OOP, design patterns, UML, and problem-solving**
-- &#128640; I'm open to **software engineering internship opportunities**
+
 
 ## Connect with me:
 
