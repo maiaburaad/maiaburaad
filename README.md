@@ -1,114 +1,68 @@
 <div align="center">
 
-# Hi :) I'm Mai 👋
+# Hi, I'm Mai
 
 ### Computer Systems Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&center=true&vCenter=true&width=550&lines=Backend+Development;Databases;System+Design;Problem+Solving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&center=true&vCenter=true&width=500&lines=Backend+Development;Software+Engineering;Databases;System+Design;Problem+Solving" alt="Typing SVG" />
 
 <p>
-  Interested in building software, understanding how systems work,
-  and turning problems into clean solutions.
+Interested in software engineering, backend systems, databases, and the design behind how software works.
 </p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-* 🎓 Studying **Computer Systems Engineering** at **Palestine Technical University - Kadoorie**
-* 💻 Interested in **Software Engineering, Backend Development, and System Design**
-* 🧠 I enjoy **OOP, Design Patterns, UML, Algorithms, and Problem Solving**
-* 🗄️ Interested in **Databases, Database Design, and efficient data handling**
-* 🚀 I enjoy learning by building projects and exploring different technologies
+I'm a Computer Systems Engineering student at **Palestine Technical University - Kadoorie**, interested in designing and building software systems.
+
+My interests include **Backend Development, OOP, Design Patterns, Databases, System Design, UML, Algorithms, and Problem Solving**.
+
+I enjoy learning through projects, understanding how systems work internally, and finding clean solutions to technical problems.
 
 ---
 
-## 🛠️ Languages & Technologies
+## Technologies
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,php" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-**Oracle Database**
-
-### Web & Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,html,css,bootstrap" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,php,nodejs,mysql,postgres,html,css,bootstrap,git,github,docker,linux&perline=8" />
 
 </div>
 
----
-
-## 🧩 Core Interests
-
-```text
-Object-Oriented Programming
-Design Patterns
-Data Structures & Algorithms
-Problem Solving
-Database Design
-Backend Development
-System Design
-UML & System Analysis
-```
+<p align="center">
+Java · C++ · Python · TypeScript · JavaScript · PHP · Node.js<br>
+MySQL · PostgreSQL · Oracle Database<br>
+Git · GitHub · Docker · Linux
+</p>
 
 ---
 
-## 🚀 Projects
+## Featured Work
 
-### ⚡ Fastify Log API
+### Fastify Log API
 
-A backend service for high-performance **log ingestion, querying, aggregation, and retention**, built with TypeScript and relational database technologies.
+High-performance backend service for **log ingestion, querying, aggregation, and retention**.
 
-`TypeScript` `Backend` `REST API` `Performance` `Docker`
+`TypeScript` `Fastify` `PostgreSQL` `Docker` `REST API`
 
----
+### Gator
 
-### 📰 Gator
+Command-line RSS feed aggregator for managing **users, feeds, follows, and posts**.
 
-A command-line **RSS feed aggregator** that manages users, feeds, follows, and posts.
+`TypeScript` `Node.js` `PostgreSQL` `Drizzle ORM`
 
-`TypeScript` `Node.js` `PostgreSQL` `CLI`
+### Istidrak
 
----
+Intelligent mathematics learning platform focused on identifying **knowledge gaps and personalized learning paths**.
 
-### 🧠 Istidrak
-
-An intelligent mathematics learning platform designed to identify students' knowledge gaps and support personalized learning.
-
-`System Analysis` `UML` `Database Design` `AI Concepts`
+`System Analysis` `UML` `Database Design` `System Design`
 
 ---
 
-### ☕ Cake Shop System
-
-A Java desktop application demonstrating software design principles and patterns including **Singleton, Factory, Decorator, and Observer**.
-
-`Java` `OOP` `Design Patterns`
-
----
-
-### 💻 YallaCode
-
-A web-based learning platform with authentication, user profiles, role-based access, and administration features.
-
-`PHP` `MySQL` `Web Development`
-
----
-
-## 📫 Connect With Me
+## Connect
 
 <div align="center">
 
@@ -122,10 +76,10 @@ A web-based learning platform with authentication, user profiles, role-based acc
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ✨ Always learning. Always building.
+<sub>Always learning. Always building.</sub>
 
 </div>
