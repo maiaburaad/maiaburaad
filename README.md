@@ -1,28 +1,31 @@
 <div align="center">
 
-# Hi :) I'm Mai
+# Hi :) I'm Mai 👋
 
 ### Computer Systems Engineering Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&center=true&vCenter=true&width=550&lines=Backend+Development;Databases;System+Design;Problem+Solving" alt="Typing SVG" />
 
-<p>   Interested in building software, understanding how systems work,   and turning problems into clean solutions. </p>
+<p>
+  Interested in building software, understanding how systems work,
+  and turning problems into clean solutions.
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-* Studying **Computer Systems Engineering** at **Palestine Technical University - Kadoorie**
-* Interested in **Software Engineering, Backend Development, and System Design**
-* I enjoy **OOP, Design Patterns, UML, Algorithms, and Problem Solving**
-* Interested in **Databases, Database Design, and efficient data handling**
-* I enjoy learning by building projects and exploring different technologies
+* 🎓 Studying **Computer Systems Engineering** at **Palestine Technical University - Kadoorie**
+* 💻 Interested in **Software Engineering, Backend Development, and System Design**
+* 🧠 I enjoy **OOP, Design Patterns, UML, Algorithms, and Problem Solving**
+* 🗄️ Interested in **Databases, Database Design, and efficient data handling**
+* 🚀 I enjoy learning by building projects and exploring different technologies
 
 ---
 
-## Languages & Technologies
+## 🛠️ Languages & Technologies
 
 <div align="center">
 
@@ -48,7 +51,7 @@
 
 ---
 
-## Core Interests
+## 🧩 Core Interests
 
 ```text
 Object-Oriented Programming
@@ -63,9 +66,9 @@ UML & System Analysis
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### Fastify Log API
+### ⚡ Fastify Log API
 
 A backend service for high-performance **log ingestion, querying, aggregation, and retention**, built with TypeScript and relational database technologies.
 
@@ -73,7 +76,7 @@ A backend service for high-performance **log ingestion, querying, aggregation, a
 
 ---
 
-### Gator
+### 📰 Gator
 
 A command-line **RSS feed aggregator** that manages users, feeds, follows, and posts.
 
@@ -81,7 +84,7 @@ A command-line **RSS feed aggregator** that manages users, feeds, follows, and p
 
 ---
 
-### Istidrak
+### 🧠 Istidrak
 
 An intelligent mathematics learning platform designed to identify students' knowledge gaps and support personalized learning.
 
@@ -89,7 +92,7 @@ An intelligent mathematics learning platform designed to identify students' know
 
 ---
 
-### Cake Shop System
+### ☕ Cake Shop System
 
 A Java desktop application demonstrating software design principles and patterns including **Singleton, Factory, Decorator, and Observer**.
 
@@ -97,7 +100,7 @@ A Java desktop application demonstrating software design principles and patterns
 
 ---
 
-### YallaCode
+### 💻 YallaCode
 
 A web-based learning platform with authentication, user profiles, role-based access, and administration features.
 
@@ -105,13 +108,17 @@ A web-based learning platform with authentication, user profiles, role-based acc
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="mailto:[mai.aburaed@gmail.com](mailto:mai.aburaed@gmail.com)">   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="mailto:mai.aburaed@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<a href="https://leetcode.com/u/MaiAburaed/">   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a>
+<a href="https://leetcode.com/u/MaiAburaed/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
 </div>
 
@@ -119,6 +126,6 @@ A web-based learning platform with authentication, user profiles, role-based acc
 
 <div align="center">
 
-### Always learning. Always building.
+### ✨ Always learning. Always building.
 
 </div>
