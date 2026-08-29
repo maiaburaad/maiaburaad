@@ -59,9 +59,11 @@ Algorithms             Problem Solving
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-</div>
+<a href="https://codeforces.com/profile/Maiabura3d">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
 
----
+</div>
 
 ---
 
